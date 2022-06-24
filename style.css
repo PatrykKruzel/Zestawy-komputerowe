@@ -1,0 +1,82 @@
+#div1 {
+	background-color: white;
+	height: 33%;
+	text-align: center;
+	color: orange;
+	font-size: 35px;
+}
+
+
+
+
+#pokaz {
+	background-color: orange;
+	height: 77%;
+
+	text-align: center;
+	font-size: 35px;
+	color: blue;
+}
+
+
+h1 {
+	text-align: left;
+	color: red;
+	font-size: 40px;
+}
+
+
+h2 {
+	text-align: right;
+	color: green;
+	font-size: 20px;
+}
+
+
+
+#dodaj {
+	display: none;
+	visibility: hidden;
+}
+
+#alert {
+	display: none;
+	visibility: hidden;
+	font-size: 25px;
+	color: red;
+}
+
+
+#git {
+	display: none;
+	visibility: hidden;
+	font-size: 25px;
+	color: green,
+}
+
+
+#podpowiedzi {
+	font-size: 20px;
+	color: black;
+}
+
+
+
+#podpowiedzi1 {
+	font-size: 20px;
+	color: black;
+}
+
+
+
+#podpowiedzi2 {
+	font-size: 20px;
+	color: black;
+}
+
+
+
+#podpowiedzi3 {
+	font-size: 20px;
+	color: black;
+}
